@@ -1,0 +1,126 @@
+G:\Projects\Exsample>G:\Projects\Exsample\x64\Release\ex_davalue.exe
+da_init
+word:   直進    length: 4       da->fieldCount: 1       da->deltaSize:  240     da->bindSize:   5       da->currentSize:        240
+word:   左折    length: 4       da->fieldCount: 2       da->deltaSize:  240     da->bindSize:   10      da->currentSize:        240
+word:   右折    length: 4       da->fieldCount: 3       da->deltaSize:  240     da->bindSize:   15      da->currentSize:        240
+word:   直進または左折  length: 14      da->fieldCount: 4       da->deltaSize:  240     da->bindSize:   30      da->currentSize:        240
+word:   直進または右折  length: 14      da->fieldCount: 5       da->deltaSize:  240     da->bindSize:   45      da->currentSize:        240
+word:   左折または右折  length: 14      da->fieldCount: 6       da->deltaSize:  240     da->bindSize:   60      da->currentSize:        240
+word:   右折専用        length: 8       da->fieldCount: 7       da->deltaSize:  240     da->bindSize:   69      da->currentSize:        240
+word:   左折専用        length: 8       da->fieldCount: 8       da->deltaSize:  240     da->bindSize:   78      da->currentSize:        240
+word:   Uターン length: 7       da->fieldCount: 9       da->deltaSize:  240     da->bindSize:   86      da->currentSize:        240
+word:   一方通行        length: 8       da->fieldCount: 10      da->deltaSize:  240     da->bindSize:   95      da->currentSize:        240
+word:   進入禁止        length: 8       da->fieldCount: 11      da->deltaSize:  240     da->bindSize:   104     da->currentSize:        240
+word:   駐車禁止        length: 8       da->fieldCount: 12      da->deltaSize:  240     da->bindSize:   113     da->currentSize:        240
+word:   駐停車禁止      length: 10      da->fieldCount: 13      da->deltaSize:  240     da->bindSize:   124     da->currentSize:        240
+word:   自転車専用      length: 10      da->fieldCount: 14      da->deltaSize:  240     da->bindSize:   135     da->currentSize:        240
+word:   歩行者専用      length: 10      da->fieldCount: 15      da->deltaSize:  240     da->bindSize:   146     da->currentSize:        240
+word:   車両通行止め    length: 12      da->fieldCount: 16      da->deltaSize:  240     da->bindSize:   159     da->currentSize:        240
+word:   大型車通行止め  length: 14      da->fieldCount: 17      da->deltaSize:  240     da->bindSize:   174     da->currentSize:        240
+word:   自転車通行止め  length: 14      da->fieldCount: 18      da->deltaSize:  240     da->bindSize:   189     da->currentSize:        240
+word:   徒歩者通行止め  length: 14      da->fieldCount: 19      da->deltaSize:  240     da->bindSize:   204     da->currentSize:        240
+word:   徐行    length: 4       da->fieldCount: 20      da->deltaSize:  240     da->bindSize:   209     da->currentSize:        240
+word:   停止    length: 4       da->fieldCount: 21      da->deltaSize:  240     da->bindSize:   214     da->currentSize:        240
+word:   優先道路        length: 8       da->fieldCount: 22      da->deltaSize:  240     da->bindSize:   223     da->currentSize:        240
+word:   一時停止        length: 8       da->fieldCount: 23      da->deltaSize:  240     da->bindSize:   232     da->currentSize:        240
+word:   横断歩道        length: 8       da->fieldCount: 24      da->deltaSize:  240     da->bindSize:   241     da->currentSize:        480
+word:   学校    length: 4       da->fieldCount: 25      da->deltaSize:  240     da->bindSize:   246     da->currentSize:        480
+word:   保育園  length: 6       da->fieldCount: 26      da->deltaSize:  240     da->bindSize:   253     da->currentSize:        480
+word:   病院    length: 4       da->fieldCount: 27      da->deltaSize:  240     da->bindSize:   258     da->currentSize:        480
+word:   信号機  length: 6       da->fieldCount: 28      da->deltaSize:  240     da->bindSize:   265     da->currentSize:        480
+word:   交差点  length: 6       da->fieldCount: 29      da->deltaSize:  240     da->bindSize:   272     da->currentSize:        480
+word:   踏切    length: 4       da->fieldCount: 30      da->deltaSize:  240     da->bindSize:   277     da->currentSize:        480
+word:   急カーブ        length: 8       da->fieldCount: 31      da->deltaSize:  240     da->bindSize:   286     da->currentSize:        480
+word:   急勾配  length: 6       da->fieldCount: 32      da->deltaSize:  240     da->bindSize:   293     da->currentSize:        480
+word:   下り坂  length: 6       da->fieldCount: 33      da->deltaSize:  240     da->bindSize:   300     da->currentSize:        480
+word:   上り坂  length: 6       da->fieldCount: 34      da->deltaSize:  240     da->bindSize:   307     da->currentSize:        480
+word:   トンネル        length: 8       da->fieldCount: 35      da->deltaSize:  240     da->bindSize:   316     da->currentSize:        480
+word:   高架橋  length: 6       da->fieldCount: 36      da->deltaSize:  240     da->bindSize:   323     da->currentSize:        480
+word:   橋      length: 2       da->fieldCount: 37      da->deltaSize:  240     da->bindSize:   326     da->currentSize:        480
+word:   危険    length: 4       da->fieldCount: 38      da->deltaSize:  240     da->bindSize:   331     da->currentSize:        480
+word:   落石    length: 4       da->fieldCount: 39      da->deltaSize:  240     da->bindSize:   336     da->currentSize:        480
+word:   凍結    length: 4       da->fieldCount: 40      da->deltaSize:  240     da->bindSize:   341     da->currentSize:        480
+word:   対向車注意      length: 10      da->fieldCount: 41      da->deltaSize:  240     da->bindSize:   352     da->currentSize:        480
+word:   追越し禁止      length: 10      da->fieldCount: 42      da->deltaSize:  240     da->bindSize:   363     da->currentSize:        480
+word:   追越し可能      length: 10      da->fieldCount: 43      da->deltaSize:  240     da->bindSize:   374     da->currentSize:        480
+word:   追越し専用      length: 10      da->fieldCount: 44      da->deltaSize:  240     da->bindSize:   385     da->currentSize:        480
+word:   横風注意        length: 8       da->fieldCount: 45      da->deltaSize:  240     da->bindSize:   394     da->currentSize:        480
+word:   狭路    length: 4       da->fieldCount: 46      da->deltaSize:  240     da->bindSize:   399     da->currentSize:        480
+word:   幅員狭小        length: 8       da->fieldCount: 47      da->deltaSize:  240     da->bindSize:   408     da->currentSize:        480
+word:   狭小    length: 4       da->fieldCount: 48      da->deltaSize:  240     da->bindSize:   413     da->currentSize:        480
+word:   落下物注意      length: 10      da->fieldCount: 49      da->deltaSize:  240     da->bindSize:   424     da->currentSize:        480
+word:   工事中  length: 6       da->fieldCount: 50      da->deltaSize:  240     da->bindSize:   431     da->currentSize:        480
+word:   迂回    length: 4       da->fieldCount: 51      da->deltaSize:  240     da->bindSize:   436     da->currentSize:        480
+word:   迂回路  length: 6       da->fieldCount: 52      da->deltaSize:  240     da->bindSize:   443     da->currentSize:        480
+word:   通行止め        length: 8       da->fieldCount: 53      da->deltaSize:  240     da->bindSize:   452     da->currentSize:        480
+word:   規制解除        length: 8       da->fieldCount: 54      da->deltaSize:  240     da->bindSize:   461     da->currentSize:        480
+word:   制限速度        length: 8       da->fieldCount: 55      da->deltaSize:  240     da->bindSize:   470     da->currentSize:        480
+word:   最高速度        length: 8       da->fieldCount: 56      da->deltaSize:  240     da->bindSize:   479     da->currentSize:        480
+word:   最低速度        length: 8       da->fieldCount: 57      da->deltaSize:  240     da->bindSize:   488     da->currentSize:        720
+word:   速度制限解除    length: 12      da->fieldCount: 58      da->deltaSize:  240     da->bindSize:   501     da->currentSize:        720
+word:   優先    length: 4       da->fieldCount: 59      da->deltaSize:  240     da->bindSize:   506     da->currentSize:        720
+word:   非優先  length: 6       da->fieldCount: 60      da->deltaSize:  240     da->bindSize:   513     da->currentSize:        720
+da_fin
+word    0       直進    strcmp=0
+word    1       左折    strcmp=0
+word    2       右折    strcmp=0
+word    3       直進または左折  strcmp=0
+word    4       直進または右折  strcmp=0
+word    5       左折または右折  strcmp=0
+word    6       右折専用        strcmp=0
+word    7       左折専用        strcmp=0
+word    8       Uターン strcmp=0
+word    9       一方通行        strcmp=0
+word    10      進入禁止        strcmp=0
+word    11      駐車禁止        strcmp=0
+word    12      駐停車禁止      strcmp=0
+word    13      自転車専用      strcmp=0
+word    14      歩行者専用      strcmp=0
+word    15      車両通行止め    strcmp=0
+word    16      大型車通行止め  strcmp=0
+word    17      自転車通行止め  strcmp=0
+word    18      徒歩者通行止め  strcmp=0
+word    19      徐行    strcmp=0
+word    20      停止    strcmp=0
+word    21      優先道路        strcmp=0
+word    22      一時停止        strcmp=0
+word    23      横断歩道        strcmp=0
+word    24      学校    strcmp=0
+word    25      保育園  strcmp=0
+word    26      病院    strcmp=0
+word    27      信号機  strcmp=0
+word    28      交差点  strcmp=0
+word    29      踏切    strcmp=0
+word    30      急カーブ        strcmp=0
+word    31      急勾配  strcmp=0
+word    32      下り坂  strcmp=0
+word    33      上り坂  strcmp=0
+word    34      トンネル        strcmp=0
+word    35      高架橋  strcmp=0
+word    36      橋      strcmp=0
+word    37      危険    strcmp=0
+word    38      落石    strcmp=0
+word    39      凍結    strcmp=0
+word    40      対向車注意      strcmp=0
+word    41      追越し禁止      strcmp=0
+word    42      追越し可能      strcmp=0
+word    43      追越し専用      strcmp=0
+word    44      横風注意        strcmp=0
+word    45      狭路    strcmp=0
+word    46      幅員狭小        strcmp=0
+word    47      狭小    strcmp=0
+word    48      落下物注意      strcmp=0
+word    49      工事中  strcmp=0
+word    50      迂回    strcmp=0
+word    51      迂回路  strcmp=0
+word    52      通行止め        strcmp=0
+word    53      規制解除        strcmp=0
+word    54      制限速度        strcmp=0
+word    55      最高速度        strcmp=0
+word    56      最低速度        strcmp=0
+word    57      速度制限解除    strcmp=0
+word    58      優先    strcmp=0
+word    59      非優先  strcmp=0
+da_kill
+
+G:\Projects\Exsample>
